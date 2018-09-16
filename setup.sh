@@ -4,7 +4,7 @@ sudo apt upgrade
 sudo apt install fonts-emojione \
 	gnome-tweaks \
 	chrome-gnome-shell \
-	git \	
+	git \
 	nodejs \
 	npm \
 	python3-pip \
