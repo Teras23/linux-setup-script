@@ -10,6 +10,7 @@ sudo apt install fonts-emojione \
 	python3-pip \
 	curl \
 	keepass2 \
+	openjdk-8-jdk \
 	build-essential -yy
 
 #sudo apt install texlive-full -yy
